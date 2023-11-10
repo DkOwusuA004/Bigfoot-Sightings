@@ -110,10 +110,10 @@ In order to identify any patterns or trends with when these reports were made.</
 <H2>Approach</H2>
 
 <h3>Data Collection</h3>
-<p></p>
+<p>To collect the data used for this analysis I downloaded an Excel file within the Cisco 'Introduction to Tableau module' in my Data Analytics Essentials course</p>
 
 <h3>Data Cleaning</h3>
-<p></p>
+<p>First I put a filter on the entire date in order to make the cleaning process easier, I then removed the 'Submitted Date' column as this was irrelevant to my analysis. Then I used conditional formatting on the year column in order to highlight any rows of data that were outside the range of 1950 - 2018. After this, I filtered all the class C reports and removed them from the dataset as they were not deemed credible enough for the analysis. I then filtered all the 'unknown' cells in the 'Season' column and removed these rows of data as they would've affected my comparative analysis later during the project, I also filtered all the '(blanks)' cells in the month column in order to remove the lines of data that didn't have a specific month as these lines of data would affect my upcoming comparative analysis.</p>
 
 <h3>Analysis</h3>  
 <p>Using a pivot table I put the state column in the row and values fields and then I sorted the data descending by 'Count of State' which showed me that Washington had the highest number of sightings (506)</p>
