@@ -123,18 +123,40 @@ In order to identify any patterns or trends with when these reports were made.</
 
 
 <h2>Visualisations</h2>
+<a href="https://public.tableau.com/app/profile/deiniol.ampomah/viz/BigfootSightings_16995777430520/BigfootSightings1"> <img src="https://github.com/DkOwusuA004/Bigfoot-Sightings/assets/139594033/45f3179c-c7c2-4acd-a123-a800a1676d0c" alt="Bigfoot Sightings Dashboard 1">
+</a>
+
+<a href="https://public.tableau.com/app/profile/deiniol.ampomah/viz/BigfootSightings_16995777430520/BigfootSightings1"><img src="https://github.com/DkOwusuA004/Bigfoot-Sightings/assets/139594033/8266bedf-bb0d-46ef-b8dc-5a648bfc88cd" alt="Bigfoot Sightings Dashboard 2"></a>
+
+
 
 
 <h2>Interpretation</h2>
-<h3>Potential Biases</h3>
+<p>Within the first dashboard are 2 graphs; 'Bigfoot sightings by State' and 'Washington sightings by County'. The 'Bigfoot sightings by State' shows us that Washington produced the most Bigfoot sightings (503) between 1950-2018. This answers the first question "Which state within the USA had the most sightings over the period?".</p>
+
+<p>In order to answer the second question; "Within this state which county was responsible for the majority of these sightings?", we have to look at the 'Washington sightings by County' graph. This graph shows us that within Washington, the county with the highest number of sightings is Pierce County with 68 sightings in the period</p>
+
+<p>Regarding the comparative analysis we can look at tables 'Sightings by season', 'Sightings by month' and Sightings by class'.</p>
+
+<p>Firstly, by looking at the 'Sightings by season' graph, we can see that 40.36% of sightings (203) were reported during Summer, this could be due to... . We can also see that the month with the lowest number of sightings reported was winter with 59 sightings over the period. This could be caused by...</p>
+
+<p>Next, looking at the 'sightings by month' graph, we can see that the month of August had 88 sightings reported out of a possible 503 (11.73%). This graph shows us that the summer sightings were greatly influenced by the month of August as the 2nd and 3rd highest months after August were October (68) and September (67) </p>
+
+<p>Finally, the 'sightings by class' graph shows that the majority (58.65%) of reports made were reports involving incidents where a possible sighting was observed at a great distance or in poor lighting conditions </p>
+<h2>Potential Biases</h2>
+
 
 
 <h2>Technologies</h2>
-Excel 
-Tableau 
+<img src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" alt="Excel Logo" width="150" height="100">
+
+<img src="https://github.com/DkOwusuA004/Bigfoot-Sightings/assets/139594033/1004ca36-cdf6-4025-8456-f38320fbb42b" alt="Tableau Public Logo" Width="150" height="80">
+
 
 <h2>Setup</h2>
 
 <h2>Status</h2>
+
+
 
 <h2>Credits</h2>
