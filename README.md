@@ -160,4 +160,4 @@ In order to identify any patterns or trends with when these reports were made.</
 
 
 <h2>Credits</h2>
-<a href="https://skillsforall.com/launch?id=1b81c11b-147b-49aa-8f87-a3469f24d280&tab=curriculum&view=db1d06b1-3987-55fa-8268-eaa0a91a802f&showContentView">Moudle 8.1 - Introducing Tableau</a>
+<a href="https://www.kaggle.com/datasets/josephvm/bigfoot-sightings-data">Bigfoot Sightings</a>
