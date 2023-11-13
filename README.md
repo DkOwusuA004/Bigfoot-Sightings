@@ -103,17 +103,13 @@ I believe this data to be reliable/unreliable because...
 
 In order to identify any patterns or trends with when these reports were made.</p>
 
-<h3>Potential Biases</h3>
-
-
-
 <H2>Approach</H2>
 
 <h3>Data Collection</h3>
 <p>To collect the data used for this analysis I downloaded an Excel file within the Cisco 'Introduction to Tableau module' in my Data Analytics Essentials course.</p>
 
 <h3>Data Cleaning</h3>
-<p>First I put a filter on the entire date in order to make the cleaning process easier, I then removed the 'Submitted Date' column as this was irrelevant to my analysis. Then I used conditional formatting on the year column in order to highlight any rows of data that were outside the range of 1950 - 2018. After this, I filtered all the class C reports and removed them from the dataset as they were not deemed credible enough for the analysis. I then filtered all the 'unknown' cells in the 'Season' column and removed these rows of data as they would've affected my comparative analysis later during the project, I also filtered all the '(blanks)' cells in the month column in order to remove the lines of data that didn't have a specific month as these lines of data would affect my upcoming comparative analysis.</p>
+<p>First I put a filter on the entire date in order to make the cleaning process easier, I then removed the 'Submitted Date' column as this was irrelevant to my analysis. Then I used conditional formatting on the year column to highlight any data rows outside the range of 1950 - 2018. After this, I filtered all the class C reports and removed them from the dataset as they were not deemed credible enough for the analysis. I then filtered all the 'unknown' cells in the 'Season' column and removed these rows of data as they would've affected my comparative analysis later during the project, I also filtered all the '(blanks)' cells in the month column in order to remove the lines of data that didn't have a specific month as these lines of data would affect my upcoming comparative analysis.</p>
 
 <h3>Analysis</h3>  
 <p>Using a pivot table I put the state column in the row and values fields and then I sorted the data descending by 'Count of State' which showed me that Washington had the highest number of sightings (506).</p>
@@ -138,13 +134,14 @@ In order to identify any patterns or trends with when these reports were made.</
 
 <p>Regarding the comparative analysis we can look at tables 'Sightings by season', 'Sightings by month' and Sightings by class'.</p>
 
-<p>Firstly, by looking at the 'Sightings by season' graph, we can see that 40.36% of sightings (203) were reported during Summer, this could be due to... . We can also see that the month with the lowest number of sightings reported was winter with 59 sightings over the period. This could be caused by...</p>
+<p>Firstly, by looking at the 'Sightings by season' graph, we can see that 40.36% of sightings (203) were reported during Summer, this could be due to... We can also see that the month with the lowest number of sightings reported was winter with 59 sightings over the period. This could be caused by...</p>
 
 <p>Next, looking at the 'sightings by month' graph, we can see that the month of August had 88 sightings reported out of a possible 503 (11.73%). This graph shows us that the summer sightings were greatly influenced by the month of August as the 2nd and 3rd highest months after August were October (68) and September (67) </p>
 
 <p>Finally, the 'sightings by class' graph shows that the majority (58.65%) of reports made were reports involving incidents where a possible sighting was observed at a great distance or in poor lighting conditions </p>
-<h2>Potential Biases</h2>
 
+<h2>Potential Biases</h2>
+<p>The most prevalent type of bias that could've affected the conclusion of this project is information bias; many people may have had sightings that could very well fall under Class A or B reports however, for an array of reasons they may not have filed a report. In addition to this, there is the risk of hoax and prank reporting which affects the validity of the data collected, ultimately skewing the data and creating inaccuracies within the analysis. </p>
 
 
 <h2>Technologies</h2>
@@ -156,7 +153,7 @@ In order to identify any patterns or trends with when these reports were made.</
 <h2>Setup</h2>
 
 <h2>Status</h2>
-<p><img src="https://geps.dev/progress/100" height="50" width="200"></p>
+<p><img src="https://geps.dev/progress/100" ></p>
 
 
 <h2>Credits</h2>
