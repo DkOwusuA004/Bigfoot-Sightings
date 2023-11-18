@@ -54,7 +54,7 @@ Class B - These reports involve incidents where a possible sighting was observed
 
 Class C - These reports have a high potential for inaccuracy e.g. most second-hand reports, and any third-hand reports, or stories with an untraceable source. </p> 
 
-<p> In this analysis I consider sightings to be credible if they are within Classes A & B </p>
+<p> In this analysis I consider sightings to be credible if they are within Classes A & B.</p>
 
 <H2>Data Understanding</H2>
 <h3>Data source</h3>
@@ -126,18 +126,18 @@ In order to identify any patterns or trends with when these reports were made.</
 <h2>Interpretation</h2>
 <p>Within the first dashboard are 2 graphs; 'Bigfoot sightings by State' and 'Washington sightings by County'. The 'Bigfoot sightings by State' shows us that Washington produced the most Bigfoot sightings (503) between 1950-2018. This answers the first question "Which state within the USA had the most sightings over the period?".</p>
 
-<p>In order to answer the second question; "Within this state which county was responsible for the majority of these sightings?", we have to look at the 'Washington sightings by County' graph. This graph shows us that within Washington, the county with the highest number of sightings is Pierce County with 68 sightings in the period</p>
+<p>In order to answer the second question; "Within this state which county was responsible for the majority of these sightings?", we have to look at the 'Washington sightings by County' graph. This graph shows us that within Washington, the county with the highest number of sightings is Pierce County with 68 sightings in the period.</p>
 
 <p>Regarding the comparative analysis we can look at tables 'Sightings by season', 'Sightings by month' and Sightings by class'.</p>
 
 <p>Firstly, by looking at the 'Sightings by season' graph, we can see that 40.36% of sightings (203) were reported during Summer, this could be due to the following:
   <ol>
     <li>Increased Outdoor Activity</li>
-    <p>During the summer season, a pronounced surge in vacationing and recreational pursuits is observed. A substantial number of individuals, particularly outdoor enthusiasts such as campers and hikers, tend to partake in these activities during this period, capitalizing on the more predictable weather conditions. This propensity raises the probability of individuals finding themselves in locations where reported Bigfoot sightings have historically occurred. Furthermore, the summer months represent an optimal time for wildlife observation. Devotees of nature and photography often allocate an increased duration to exploring natural habitats, thereby augmenting the chances of encountering diverse fauna. It is noteworthy that such wildlife encounters, in certain instances, may be misconstrued as potential Bigfoot sightings.</p>
+    <p>During the summer season, a pronounced surge in vacationing and recreational pursuits is observed. Many individuals, particularly outdoor enthusiasts such as campers and hikers, tend to partake in these activities during this period, capitalizing on the more predictable weather conditions. This propensity raises the probability of individuals finding themselves in locations where reported Bigfoot sightings have historically occurred. Furthermore, the summer months represent an optimal time for wildlife observation. Devotees of nature and photography often allocate an increased duration to exploring natural habitats, thereby augmenting the chances of encountering diverse fauna. It is noteworthy that such wildlife encounters, in certain instances, may be misconstrued as potential Bigfoot sightings.</p>
     <li>Better Weather Conditions/Extended Daylight Hours</li>
-    <p>The elevated temperatures characteristic of the summer season render outdoor activities notably more comfortable and enticing. Consequently, individuals are inclined to explore natural habitats, thereby heightening the prospects of wildlife encounters or the reporting of unconventional sightings. Moreover, the longer duration of daylight during summer extends the time available for outdoor activities. This prolonged visibility window creates additional opportunities for individuals to discern peculiar phenomena and subsequently report such sightings.</p>
+    <p>The elevated temperatures of the summer season render outdoor activities notably more comfortable and enticing. Consequently, individuals are inclined to explore natural habitats, thereby heightening the prospects of wildlife encounters or reporting unconventional sightings. Moreover, the longer duration of daylight during summer extends the time available for outdoor activities. This prolonged visibility window creates additional opportunities for individuals to discern peculiar phenomena and subsequently report such sightings.</p>
     <li>Wildlife Activity/Migration and Movement Patterns</li>
-    <p>In the summer season, numerous wildlife species undergo heightened activity, influenced by factors like breeding seasons, abundant food availability, and favorable weather conditions. This surge in wildlife activity is prone to result in increased observations and reports from individuals engaged in outdoor activities, particularly in regions recognized for Bigfoot sightings. Furthermore, locales characterized by both documented Bigfoot sightings and escalated wildlife activity may witness elevated instances of human-wildlife interactions. This heightened interaction dynamic amplifies the likelihood of individuals reporting sightings, contributing to the convergence of reported encounters in these areas.</p>
+    <p>In the summer season, numerous wildlife species undergo heightened activity, influenced by factors like breeding seasons, abundant food availability, and favourable weather conditions. This surge in wildlife activity is prone to result in increased observations and reports from individuals engaged in outdoor activities, particularly in regions recognised for Bigfoot sightings. Furthermore, locales characterised by both documented Bigfoot sightings and escalated wildlife activity may witness elevated instances of human-wildlife interactions. This heightened interaction dynamic amplifies the likelihood of individuals reporting sightings, contributing to the convergence of reported encounters in these areas.</p>
   </ol>
 </p>
 
@@ -155,7 +155,7 @@ In order to identify any patterns or trends with when these reports were made.</
 <img src="https://github.com/DkOwusuA004/Bigfoot-Sightings/assets/139594033/1004ca36-cdf6-4025-8456-f38320fbb42b" alt="Tableau Public Logo" Width="150" height="80">
 
 <h2>Status</h2>
-<p><img src="https://geps.dev/progress/100" ></p>
+<p><img src="https://geps.dev/progress/100"></p>
 
 
 <h2>Credits</h2>
