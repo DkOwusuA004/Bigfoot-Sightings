@@ -3,42 +3,38 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="">Business Understanding</a>
+      <a href="https://github.com/DkOwusuA004/Bigfoot-Sightings#business-understanding">Business Understanding</a>
       <ul>
-        <li><a href="">Scope</a></li>
+        <li><a href="https://github.com/DkOwusuA004/Bigfoot-Sightings#scope">Scope</a></li>
       </ul>
     </li>
     <li>
-      <a href="">Data Understanding</a>
+      <a href="https://github.com/DkOwusuA004/Bigfoot-Sightings#data-understanding">Data Understanding</a>
       <ul>
-        <li><a href="">Data Source</a></li>
-        <li><a href="">Variables of Interest</a></li>
-        <li><a href="">Data Types</a></li>
-        <li><a href="">Visualisation Requirments</a></li>
-        <li><a href="">Comparative Analysis</a></li>
-        <li><a href="">Potential Biases</a></li>
-      </ul>
+        <li><a href="https://github.com/DkOwusuA004/Bigfoot-Sightings#data-source">Data Source</a></li>
+        <li><a href="https://github.com/DkOwusuA004/Bigfoot-Sightings#variables-of-interest">Variables of Interest</a></li>
+        <li><a href="https://github.com/DkOwusuA004/Bigfoot-Sightings#data-types">Data Types</a></li>
+        <li><a href="https://github.com/DkOwusuA004/Bigfoot-Sightings#visualisation-requirements">Visualisation Requirements</a></li>
+        <li><a href="https://github.com/DkOwusuA004/Bigfoot-Sightings#comparative-analysis">Comparative Analysis</a></li>
+      <a href="https://github.com/DkOwusuA004/Bigfoot-Sightings#approach">Approach</a>
     </li>
     <li>
-      <a href="">Approach</a>
+      <a href="https://github.com/DkOwusuA004/Bigfoot-Sightings#visualisations">Visualisations</a>
     </li>
     <li>
-      <a href="">Visualisations</a>
+      <a href="https://github.com/DkOwusuA004/Bigfoot-Sightings#interpretations">Interpretations</a>
     </li>
     <li>
-      <a href="">Interpretations</a>
+      <a href="https://github.com/DkOwusuA004/Bigfoot-Sightings#technologies">Technologies</a>
     </li>
     <li>
-      <a href="">Technologies</a>
+      <a href="https://github.com/DkOwusuA004/Bigfoot-Sightings#setup">Setup</a>
     </li>
     <li>
-      <a href="">Setup</a>
+      <a href="https://github.com/DkOwusuA004/Bigfoot-Sightings#status">Status</a>
     </li>
     <li>
-      <a href="">Status</a>
-    </li>
-    <li>
-      <a href="">Credits</a>
+      <a href="https://github.com/DkOwusuA004/Bigfoot-Sightings#credits">Credits</a>
     </li>
   </ol>
 </details>
@@ -64,7 +60,7 @@ Class C - These reports have a high potential for inaccuracy e.g. most second-ha
 <h3>Data source</h3>
 <p>The data source I am using is the Bigfoot_cleaned Excel file which I obtained through my Introduction to Tableau module in my Data Analytics Essentials course.
 
-I believe this data to be reliable/unreliable because...
+I believe this data to be reliable because firstly, the data was sourced from <a href=https://www.bfro.net/GDB/#usa>WWW.BFRO.NET</a> which is the only scientific research organization exploring the bigfoot/sasquatch mystery. The data used in my analysis is from their comprehensive database of credible sightings and related reports which is maintained by an all-volunteer network of bigfoot/sasquatch researchers, archivists, and investigators in the United States and Canada.
 </p>
 
 <h3>Variables of Interest</h3>
@@ -134,7 +130,16 @@ In order to identify any patterns or trends with when these reports were made.</
 
 <p>Regarding the comparative analysis we can look at tables 'Sightings by season', 'Sightings by month' and Sightings by class'.</p>
 
-<p>Firstly, by looking at the 'Sightings by season' graph, we can see that 40.36% of sightings (203) were reported during Summer, this could be due to... We can also see that the month with the lowest number of sightings reported was winter with 59 sightings over the period. This could be caused by...</p>
+<p>Firstly, by looking at the 'Sightings by season' graph, we can see that 40.36% of sightings (203) were reported during Summer, this could be due to the following:
+  <ol>
+    <li>Increased Outdoor Activity</li>
+    <p>During the summer season, a pronounced surge in vacationing and recreational pursuits is observed. A substantial number of individuals, particularly outdoor enthusiasts such as campers and hikers, tend to partake in these activities during this period, capitalizing on the more predictable weather conditions. This propensity raises the probability of individuals finding themselves in locations where reported Bigfoot sightings have historically occurred. Furthermore, the summer months represent an optimal time for wildlife observation. Devotees of nature and photography often allocate an increased duration to exploring natural habitats, thereby augmenting the chances of encountering diverse fauna. It is noteworthy that such wildlife encounters, in certain instances, may be misconstrued as potential Bigfoot sightings.</p>
+    <li>Better Weather Conditions/Extended Daylight Hours</li>
+    <p>The elevated temperatures characteristic of the summer season render outdoor activities notably more comfortable and enticing. Consequently, individuals are inclined to explore natural habitats, thereby heightening the prospects of wildlife encounters or the reporting of unconventional sightings. Moreover, the longer duration of daylight during summer extends the time available for outdoor activities. This prolonged visibility window creates additional opportunities for individuals to discern peculiar phenomena and subsequently report such sightings.</p>
+    <li>Wildlife Activity/Migration and Movement Patterns</li>
+    <p>In the summer season, numerous wildlife species undergo heightened activity, influenced by factors like breeding seasons, abundant food availability, and favorable weather conditions. This surge in wildlife activity is prone to result in increased observations and reports from individuals engaged in outdoor activities, particularly in regions recognized for Bigfoot sightings. Furthermore, locales characterized by both documented Bigfoot sightings and escalated wildlife activity may witness elevated instances of human-wildlife interactions. This heightened interaction dynamic amplifies the likelihood of individuals reporting sightings, contributing to the convergence of reported encounters in these areas.</p>
+  </ol>
+</p>
 
 <p>Next, looking at the 'sightings by month' graph, we can see that the month of August had 88 sightings reported out of a possible 503 (11.73%). This graph shows us that the summer sightings were greatly influenced by the month of August as the 2nd and 3rd highest months after August were October (68) and September (67) </p>
 
@@ -148,9 +153,6 @@ In order to identify any patterns or trends with when these reports were made.</
 <img src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" alt="Excel Logo" width="150" height="100">
 
 <img src="https://github.com/DkOwusuA004/Bigfoot-Sightings/assets/139594033/1004ca36-cdf6-4025-8456-f38320fbb42b" alt="Tableau Public Logo" Width="150" height="80">
-
-
-<h2>Setup</h2>
 
 <h2>Status</h2>
 <p><img src="https://geps.dev/progress/100" ></p>
