@@ -118,7 +118,7 @@ In order to identify any patterns or trends with when these reports were made.</
 <a href="https://public.tableau.com/app/profile/deiniol.ampomah/viz/BigfootSightings_16995777430520/BigfootSightings1"> <img src="https://github.com/DkOwusuA004/Bigfoot-Sightings/assets/139594033/45f3179c-c7c2-4acd-a123-a800a1676d0c" alt="Bigfoot Sightings Dashboard 1">
 </a>
 
-<a href="https://public.tableau.com/app/profile/deiniol.ampomah/viz/BigfootSightings_16995777430520/BigfootSightings1"><img src="https://github.com/DkOwusuA004/Bigfoot-Sightings/assets/139594033/8266bedf-bb0d-46ef-b8dc-5a648bfc88cd" alt="Bigfoot Sightings Dashboard 2"></a>
+<a href="https://public.tableau.com/app/profile/deiniol.ampomah/viz/BigfootSightings2/BigfootSightings2"><img src="https://github.com/DkOwusuA004/Bigfoot-Sightings/assets/139594033/8266bedf-bb0d-46ef-b8dc-5a648bfc88cd" alt="Bigfoot Sightings Dashboard 2"></a>
 
 
 
