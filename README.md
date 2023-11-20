@@ -152,7 +152,7 @@ In order to identify any patterns or trends with when these reports were made.</
 <h2>Technologies</h2>
 <img src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" alt="Excel Logo" width="150" height="100">
 
-<img src="https://github.com/DkOwusuA004/Bigfoot-Sightings/assets/139594033/1004ca36-cdf6-4025-8456-f38320fbb42b" alt="Tableau Public Logo" Width="150" height="80">
+<img src="https://1000logos.net/wp-content/uploads/2022/03/Tableau-Logo.png" alt="Tableau Public Logo" Width="150" height="80">
 
 <h2>Status</h2>
 <p><img src="https://geps.dev/progress/100"></p>
