@@ -115,7 +115,7 @@ In order to identify any patterns or trends with when these reports were made.</
 
 
 <h2>Visualisations</h2>
-<a href="https://public.tableau.com/app/profile/deiniol.ampomah/viz/BigfootSightings_16995777430520/BigfootSightings1"> <img src="https://github.com/DkOwusuA004/Bigfoot-Sightings/assets/139594033/45f3179c-c7c2-4acd-a123-a800a1676d0c" alt="Bigfoot Sightings Dashboard 1">
+<a href="https://public.tableau.com/app/profile/deiniol.ampomah/viz/BigfootSightings_16995777430520/BigfootSightings1"> <img src="https://github.com/DkOwusuA004/Bigfoot-Sightings/blob/main/Bigfoot%20sightings%20by%20State%20&%20Washington%20sightings%20by%20County%20Dashboard.png?raw=true45f3179c-c7c2-4acd-a123-a800a1676d0c" alt="Bigfoot Sightings Dashboard 1">
 </a>
 
 <a href="https://public.tableau.com/app/profile/deiniol.ampomah/viz/BigfootSightings2/BigfootSightings2"><img src="https://public.tableau.com/app/profile/deiniol.ampomah/viz/BigfootSightings2/BigfootSightings2" alt="Bigfoot Sightings Dashboard 2"></a>
